@@ -1,9 +1,27 @@
-<script setup>
- //import HelloWorld from './components/HelloWorld.vue'
+<script>
+ import AppTitle from './components/AppTitle.vue'
+
+export default {
+  components: {
+    AppTitle,
+  },
+
+  data() {
+    return  {
+      
+    }
+  }
+}
+
+
 </script>
 
+
+
 <template>
- <h1>hello</h1>
+
+  <AppTitle></AppTitle>
+ 
 </template>
 
 <style >

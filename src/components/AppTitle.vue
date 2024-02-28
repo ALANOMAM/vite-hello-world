@@ -9,7 +9,7 @@ export default {
 
 
 <template>
-    <h1>La mia prima app con Vite!</h1>
+    <h1>LA MIA PRIMA APP CON VITE!</h1>
 </template>
 
 <style>
